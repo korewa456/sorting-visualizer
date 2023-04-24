@@ -2,7 +2,7 @@
 
 This is a web application that visualizes various sorting algorithms in action. The project is written in React and deployed to Firebase. You can see the deployed project here: https://sorting-visualizer-71b82.web.app/.
 
-<img width="300" src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="clone this repository" />
+<img width="500" src="https://im3.ezgif.com/tmp/ezgif-3-6a54d55a03.gif" alt="clone this repository" />
 
 # Usage
 
